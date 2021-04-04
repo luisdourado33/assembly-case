@@ -31,5 +31,3 @@
 		li $v0, 4
 		la $a0, par
 		syscall
-		
-		li $v0, 10
